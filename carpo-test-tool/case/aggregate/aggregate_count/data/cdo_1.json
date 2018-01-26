@@ -1,0 +1,18 @@
+{
+    "storage": "HDFS",
+    "storageConfigurations": {
+        "format": "csv",
+        "path": "/tmp/int/aggregate_name_height.csv"
+    },
+    "formatConfigurations": {
+        "header": "true",
+        "separator": ",",
+        "quoteChar": "\"",
+        "escapeChar": "\\"
+    },
+    "expiredPeriod": 0,
+    "name": "cdo_aggregate_name_height_count",
+    "schemaName": "cdc_aggregate_name_height_count",
+    "schema": "",
+    "schemaVersion": 1
+}

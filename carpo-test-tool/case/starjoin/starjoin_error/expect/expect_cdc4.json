@@ -1,0 +1,36 @@
+{
+  "fields" : [ {
+    "name" : "0_name",
+    "alias" : "",
+    "type" : "string"
+  }, {
+    "name" : "0_age",
+    "alias" : "",
+    "type" : "string"
+  }, {
+    "name" : "1_name",
+    "alias" : "",
+    "type" : "string"
+  }, {
+    "name" : "1_sex",
+    "alias" : "",
+    "type" : "string"
+  }, {
+    "name" : "2_name",
+    "alias" : "",
+    "type" : "string"
+  }, {
+    "name" : "2_heigh",
+    "alias" : "",
+    "type" : "string"
+  } ],
+   "name" : "cdc_startjoin_out",
+  "creator" : "admin",
+   "lastModifier" : "admin",
+   "owner" : "admin",
+  "version" : 2,
+  "enabled" : 1,
+  "description" : null,
+  "tags" : [ "wyk" ],
+  "expiredPeriod" : 0
+}

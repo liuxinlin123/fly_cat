@@ -1,0 +1,18 @@
+{
+    "storage": "HDFS",
+    "storageConfigurations": {
+        "format": "csv",
+        "path": "/tmp/out1/locate_out.csv"
+    },
+    "formatConfigurations": {
+        "header": "false",
+        "separator": ",",
+        "quoteChar": "\"",
+        "escapeChar": "\\"
+    },
+    "expiredPeriod": 0,
+    "name": "transform_cdo_locate_hdfs_out",
+    "schemaName": "transform_cdc_locate_hdfs_out",
+    "schema": "",
+    "schemaVersion": 1
+}
